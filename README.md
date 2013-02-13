@@ -1,3 +1,5 @@
 Barcode-Hunter
 ==============
-This is a test!
+A system in development for a game where players hunt barcodes and get points from them.
+
+Sam Weaver
