@@ -1,0 +1,8 @@
+<form action="#">
+<fieldset>
+<legend>Login</legend>
+<p><label for="name">Name</label> <input type="text" id="name" /></p>
+<p><label for="e-mail">E-mail</label> <input type="text" id="e-mail" /><br /></p>
+<p class="submit"><input type="submit" value="Submit" /></p>
+</fieldset>
+</form>

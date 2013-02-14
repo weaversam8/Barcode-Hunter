@@ -4,7 +4,7 @@
 }
 
 body {
-	background:url(../../images/background.png) top left;
+	background:url("background.png") top left;
 	font: .8em "Lucida Sans Unicode", "Lucida Grande", sans-serif;
 }
 
