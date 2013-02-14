@@ -40,4 +40,4 @@ Thumbs.db
 # Private Files #
 #################
 .c9*/
-*_pfile.*
+*_pfile*
